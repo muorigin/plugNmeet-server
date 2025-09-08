@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.9.2](https://github.com/mynaparrot/plugNmeet-server/compare/v1.9.1...v1.9.2) (2025-09-08)
+
+
+### Bug Fixes
+
+* bump dependencies ([f5e47e2](https://github.com/mynaparrot/plugNmeet-server/commit/f5e47e2b7901cb27d8751d23d8ad6326425343d9))
+* update readme ([443043e](https://github.com/mynaparrot/plugNmeet-server/commit/443043eacaca187971d09a1e043dfe0017e192ac))
+
 ## [1.9.1](https://github.com/mynaparrot/plugNmeet-server/compare/v1.9.0...v1.9.1) (2025-08-12)
 
 
